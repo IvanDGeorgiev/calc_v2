@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "bb93cb963b8c42c919863406087d09cf",
+    "content-hash": "fa2c7cf612c7b6687a6560951976a365",
     "packages": [
         {
             "name": "behat/gherkin",
@@ -21,7 +21,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": "~7.2|~8.0"
+                "php": "8.0.21"
             },
             "require-dev": {
                 "cucumber/cucumber": "dev-gherkin-22.0.0",
@@ -6366,7 +6366,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": ">=8.0.0"
+        "php": "8.0.21"
     },
     "platform-dev": [],
     "platform-overrides": {
